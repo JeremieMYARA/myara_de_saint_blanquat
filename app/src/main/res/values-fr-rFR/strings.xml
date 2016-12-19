@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet_mobile</string>
+    <string name="button_text" value="click">Bouton</string>
+    <string name="text">Bonjour le monde</string>
+    <string name="action_settings">Réglages</string>
+</resources>

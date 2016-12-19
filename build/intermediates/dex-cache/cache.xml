@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_ccb543b3847ed4b35529e19217cb76f713407963/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_4f123af4f725423497d031ebc94857861a0a3f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_bcbe06fcc0491a362649330d8e4c64d031083282/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_a1a1a12ca65240dfa12e68d81fc5fdc651f5afb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_f29a29e4fd9ae66e1234c2518dc226b05bc9d341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_0bf6d586574f0a14c1a9fbeed55b09a27b233842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_c4af3d1f6720a064cb34f691438347814bc3efb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="120389e03f14af17b93b67b03ee05b4954c7eca3">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_969ca844c645db88602768f87037dcee415b229a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_c72335e39bcf1a9b48535bc98ab7315136341201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f0fadfb031839cc9d60ee2a63bb0ac250f8ddae">
+        <dex dex="/Users/Jeremie/AndroidStudioProjects/Projet_mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e88e373e9e7ff6d96021494f4588fe3aa73fa37/classes.dex" />
+    </item>
+
+</items>
